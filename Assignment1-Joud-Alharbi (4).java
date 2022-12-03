@@ -1,5 +1,5 @@
 /*
- * Name: Joud Alharbi  - ID: 2110207
+ * Name: Joud Alharbi  
  * Assignment 1: Grading and Absence Managment System for Students
  */
 
